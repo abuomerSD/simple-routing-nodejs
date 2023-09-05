@@ -1,0 +1,39 @@
+body {
+    margin : 0;
+    padding: 0;
+    background-color: #EEE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.header-div {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+}
+
+.links-list {
+    list-style: none;
+}
+
+.links-list li {
+    display: inline;
+    padding-right: 4px;
+}
+
+.links-list a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.text {
+    width: 90%;
+    
+    margin: auto;
+    margin-top: 10px;
+}
